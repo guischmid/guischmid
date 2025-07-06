@@ -1,4 +1,4 @@
 # Hi, I'm Gigi
 
-I'm a physics student at the University of Tübingen, currently on Erasmus in Florence.  
+I'm a physics student at the University of Tübingen 
 I use GitHub to organize my learning and personal coding projects.
